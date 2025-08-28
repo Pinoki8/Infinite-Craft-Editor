@@ -17,3 +17,5 @@ Infinite Craft Editor (aka. IC Editor) is an open source project to edit any sav
 1. There is a chance that you can break this tool by puting any of these symbols in the save file name { } ] [ " ' and much more!
 2. mabye I will add the function to make items "First discovery"
 3. Also check out my other tool, [Infinite craft menu!](https://github.com/Pinoki8/Neal.fun-Infinite-Craft-Menu)
+## Important  
+If deleting items that show up first on the list might cause save not loading, beacuse of one addicional "," there
