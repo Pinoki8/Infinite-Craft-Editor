@@ -1,0 +1,979 @@
+Sunset - 🌅
+Ocean - 🌊
+Mountain - ⛰️
+Forest - 🌲
+Desert - 🏜️
+Volcano - 🌋
+Waterfall - 💦
+Rainbow - 🌈
+Lightning - ⚡
+Snowflake - ❄️
+Star - ⭐
+Moon - 🌙
+Sun - ☀️
+Cloud - ☁️
+Tornado - 🌪️
+Hurricane - 🌀
+Meteor - ☄️
+Galaxy - 🌌
+Planet - 🪐
+Comet - ☄️
+Aurora - 🌌
+Glacier - 🧊
+Cave - 🕳️
+Island - 🏝️
+Beach - 🏖️
+River - 🏞️
+Lake - 💧
+Pond - 💦
+Stream - 💧
+Canyon - 🏜️
+Valley - 🏞️
+Hill - ⛰️
+Meadow - 🌾
+Prairie - 🌾
+Tundra - 🏔️
+Rainforest - 🌴
+Jungle - 🌴
+Swamp - 🐊
+Marsh - 🦆
+Reef - 🪸
+Tide Pool - 🦀
+Geyser - 💨
+Hot Spring - ♨️
+Quicksand - ⏳
+Avalanche - 🏔️
+Earthquake - 🌍
+Tsunami - 🌊
+Eclipse - 🌑
+Supernova - 💥
+Black Hole - 🌌
+Chess - ♟️
+Checkers - ⚫
+Monopoly - 🎲
+Scrabble - 🔤
+Risk - 🎲
+Poker - 🃏
+Blackjack - 🎰
+Roulette - 🎰
+Bingo - 🎱
+Dominoes - 🀄
+Mahjong - 🀄
+Backgammon - 🎲
+Go - ⚫
+Shogi - 🎌
+Sudoku - 🔢
+Crossword - 📰
+Jigsaw Puzzle - 🧩
+Rubik's Cube - 🧊
+Jenga - 🧱
+Pictionary - 🎨
+Charades - 🎭
+Trivia - ❓
+Hide and Seek - 👀
+Tag - 🏃
+Hopscotch - ⬜
+Jump Rope - 🪢
+Marbles - ⚪
+Yo-Yo - 🪀
+Kite Flying - 🪁
+Frisbee - 🥏
+Catch - ⚾
+Basketball - 🏀
+Football - 🏈
+Soccer - ⚽
+Baseball - ⚾
+Tennis - 🎾
+Volleyball - 🏐
+Golf - ⛳
+Hockey - 🏒
+Cricket - 🏏
+Rugby - 🏉
+Badminton - 🏸
+Table Tennis - 🏓
+Bowling - 🎳
+Boxing - 🥊
+Wrestling - 🤼
+Karate - 🥋
+Judo - 🥋
+Fencing - 🤺
+Archery - 🏹
+Swimming - 🏊
+Diving - 🤿
+Surfing - 🏄
+Skiing - ⛷️
+Snowboarding - 🏂
+Skating - ⛸️
+Rollerblading - 🛼
+Skateboarding - 🛹
+Cycling - 🚴
+Running - 🏃
+Marathon - 🏃
+Gymnastics - 🤸
+Climbing - 🧗
+Hiking - 🥾
+Camping - ⛺
+Fishing - 🎣
+Hunting - 🦌
+Kayaking - 🛶
+Canoeing - 🛶
+Rowing - 🚣
+Sailing - ⛵
+Windsurfing - 🏄
+Parasailing - 🪂
+Skydiving - 🪂
+Bungee Jumping - 🪢
+Zip Lining - 🎢
+Rock Climbing - 🧗
+Ice Skating - ⛸️
+Curling - 🥌
+Bobsledding - 🛷
+Sledding - 🛷
+Snowshoeing - 🥾
+Darts - 🎯
+Pool - 🎱
+Snooker - 🎱
+Air Hockey - 🏒
+Foosball - ⚽
+Pinball - 🕹️
+Pacman - 👾
+Tetris - 🧱
+Mario - 🍄
+Zelda - ⚔️
+Pokemon - ⚡
+Minecraft - ⛏️
+Fortnite - 🎮
+Roblox - 🎮
+Among Us - 🚀
+Sonic - 💨
+Street Fighter - 🥊
+Mortal Kombat - 🥋
+Call of Duty - 🎮
+Halo - 👽
+Overwatch - 🎮
+League of Legends - 🎮
+Dota - 🎮
+Starcraft - 🎮
+Warcraft - ⚔️
+Diablo - 👹
+Skyrim - 🐉
+Fallout - ☢️
+Doom - 👹
+Quake - 🎮
+Unreal Tournament - 🎮
+Counter Strike - 🎮
+Grand Theft Auto - 🚗
+Red Dead Redemption - 🤠
+Assassin's Creed - 🗡️
+Far Cry - 🏝️
+Tomb Raider - 🗿
+Uncharted - 🗺️
+God of War - ⚔️
+Final Fantasy - ⚔️
+Dragon Quest - 🐉
+Persona - 🎭
+Metal Gear - 🎮
+Resident Evil - 🧟
+Silent Hill - 🌫️
+Dead Space - 🚀
+Bioshock - 🌊
+Portal - 🔵
+Half Life - 🎮
+Left 4 Dead - 🧟
+Team Fortress - 🎮
+Borderlands - 🎮
+Destiny - 🚀
+Mass Effect - 🚀
+Halo Wars - 🎮
+Age of Empires - 🏰
+Civilization - 🌍
+Sim City - 🏙️
+The Sims - 🏠
+Animal Crossing - 🌳
+Stardew Valley - 🌾
+Terraria - ⛏️
+Don't Starve - 🔥
+Rust - ⚒️
+Ark - 🦖
+Subnautica - 🐠
+No Man's Sky - 🚀
+Elite Dangerous - 🚀
+Eve Online - 🚀
+World of Warcraft - 🎮
+Runescape - ⚔️
+Maple Story - 🍁
+Ragnarok Online - ⚔️
+Guitar Hero - 🎸
+Rock Band - 🎸
+Dance Dance Revolution - 💃
+Just Dance - 💃
+Beat Saber - ⚔️
+Rhythm Heaven - 🎵
+Osu - 🎵
+Kingdom Hearts - 👑
+Dark Souls - ⚔️
+Bloodborne - 🩸
+Sekiro - ⚔️
+Elden Ring - 💍
+Cuphead - ☕
+Hollow Knight - 🦋
+Celeste - ⛰️
+Shovel Knight - ⛏️
+Undertale - ❤️
+Deltarune - 🎵
+Earthbound - 🌍
+Chrono Trigger - ⏰
+Super Metroid - 🎮
+Castlevania - 🧛
+Mega Man - 🤖
+Contra - 🎮
+Gradius - 🚀
+R-Type - 🚀
+Galaga - 👾
+Space Invaders - 👾
+Asteroids - ☄️
+Centipede - 🐛
+Frogger - 🐸
+Donkey Kong - 🦍
+King Kong - 🦍
+Godzilla - 🦖
+Mothra - 🦋
+Rodan - 🦅
+Ghidorah - 🐉
+Mecha Godzilla - 🤖
+Gamera - 🐢
+Dragon - 🐉
+Phoenix - 🔥
+Unicorn - 🦄
+Griffin - 🦅
+Pegasus - 🦄
+Centaur - 🐴
+Minotaur - 🐂
+Medusa - 🐍
+Hydra - 🐉
+Cerberus - 🐕
+Chimera - 🔥
+Sphinx - 🦁
+Manticore - 🦁
+Basilisk - 🐍
+Kraken - 🐙
+Leviathan - 🐋
+Behemoth - 🦏
+Wendigo - 🦌
+Yeti - 🦍
+Bigfoot - 🦍
+Loch Ness Monster - 🦕
+Chupacabra - 🐐
+Mothman - 🦋
+Jersey Devil - 👹
+Banshee - 👻
+Vampire - 🧛
+Werewolf - 🐺
+Zombie - 🧟
+Mummy - 🏺
+Frankenstein - 🧟
+Ghost - 👻
+Demon - 👹
+Angel - 👼
+Fairy - 🧚
+Elf - 🧝
+Dwarf - 👨
+Gnome - 👨
+Goblin - 👺
+Orc - 👹
+Troll - 👹
+Ogre - 👹
+Giant - 🗿
+Titan - 🗿
+Cyclops - 👁️
+Golem - 🗿
+Gargoyle - 🗿
+Scarecrow - 🎃
+Witch - 🧙
+Wizard - 🧙
+Sorcerer - 🧙
+Warlock - 🧙
+Necromancer - 💀
+Druid - 🌿
+Shaman - 🔮
+Monk - 🧘
+Paladin - ⚔️
+Knight - 🛡️
+Samurai - ⚔️
+Ninja - 🥷
+Pirate - 🏴‍☠️
+Viking - ⚔️
+Gladiator - ⚔️
+Spartan - 🛡️
+Crusader - ⚔️
+Ronin - ⚔️
+Assassin - 🗡️
+Ranger - 🏹
+Hunter - 🏹
+Archer - 🏹
+Sniper - 🎯
+Gunslinger - 🔫
+Musketeer - ⚔️
+Barbarian - 🪓
+Berserker - 🪓
+Warrior - ⚔️
+Fighter - 🥊
+Brawler - 🥊
+Champion - 🏆
+Hero - 🦸
+Superhero - 🦸
+Villain - 🦹
+Supervillain - 🦹
+Sidekick - 🦸
+Mentor - 👴
+Apprentice - 👨
+Student - 🎓
+Teacher - 👨‍🏫
+Professor - 👨‍🏫
+Scientist - 👨‍🔬
+Inventor - 💡
+Engineer - 👨‍🔧
+Mechanic - 🔧
+Pilot - 🧑‍✈️
+Astronaut - 🧑‍🚀
+Cosmonaut - 🧑‍🚀
+Explorer - 🗺️
+Adventurer - 🗺️
+Treasure Hunter - 💰
+Archaeologist - 🏺
+Paleontologist - 🦴
+Geologist - 🪨
+Botanist - 🌱
+Biologist - 🧬
+Chemist - ⚗️
+Physicist - 🔬
+Mathematician - 🔢
+Astronomer - 🔭
+Meteorologist - 🌤️
+Oceanographer - 🌊
+Cartographer - 🗺️
+Navigator - 🧭
+Captain - ⚓
+Admiral - ⚓
+General - ⭐
+Commander - 🎖️
+Soldier - 🪖
+Marine - 🪖
+Sailor - ⚓
+Airman - ✈️
+Medic - 🏥
+Doctor - 👨‍⚕️
+Surgeon - 🩺
+Nurse - 👩‍⚕️
+Paramedic - 🚑
+Firefighter - 🚒
+Police Officer - 👮
+Detective - 🕵️
+Sheriff - 🤠
+Marshal - 🤠
+Bounty Hunter - 🎯
+Spy - 🕵️
+Agent - 🕴️
+Bodyguard - 🕴️
+Guard - 💂
+Sentinel - 🗿
+Watchman - 👁️
+Scout - 🔭
+Messenger - 📨
+Herald - 📯
+Bard - 🎵
+Minstrel - 🎵
+Musician - 🎵
+Composer - 🎼
+Conductor - 🎼
+Singer - 🎤
+Rapper - 🎤
+Dancer - 💃
+Choreographer - 💃
+Actor - 🎭
+Actress - 🎭
+Director - 🎬
+Producer - 🎬
+Screenwriter - 📝
+Playwright - 📝
+Poet - 📝
+Author - 📚
+Novelist - 📚
+Journalist - 📰
+Reporter - 📰
+Editor - 📝
+Publisher - 📚
+Librarian - 📚
+Curator - 🖼️
+Artist - 🎨
+Painter - 🎨
+Sculptor - 🗿
+Illustrator - ✏️
+Animator - 🎬
+Cartoonist - 📰
+Photographer - 📷
+Videographer - 📹
+Cinematographer - 🎥
+Architect - 📐
+Designer - 🎨
+Fashion Designer - 👗
+Interior Designer - 🏠
+Graphic Designer - 🖼️
+Web Designer - 💻
+Game Designer - 🎮
+Software Developer - 💻
+Programmer - 💻
+Coder - 💻
+Hacker - 💻
+System Administrator - 💻
+Network Engineer - 💻
+Database Administrator - 💻
+Data Scientist - 📊
+Analyst - 📊
+Consultant - 💼
+Manager - 💼
+Executive - 💼
+CEO - 💼
+President - 🎖️
+Prime Minister - 🎖️
+King - 👑
+Queen - 👑
+Prince - 🤴
+Princess - 👸
+Emperor - 👑
+Empress - 👑
+Pharaoh - 🏺
+Sultan - 👳
+Shogun - ⚔️
+Warlord - ⚔️
+Chieftain - 🪶
+Elder - 👴
+Sage - 🧙
+Oracle - 🔮
+Prophet - 📜
+Priest - ⛪
+Bishop - ⛪
+Pope - ⛪
+Cardinal - ⛪
+Cleric - ⛪
+Templar - ⚔️
+Missionary - ⛪
+Pilgrim - 🚶
+Hermit - 🏔️
+Ascetic - 🧘
+Philosopher - 💭
+Thinker - 💭
+Scholar - 📚
+Historian - 📚
+Diplomat - 🤝
+Ambassador - 🤝
+Negotiator - 🤝
+Mediator - 🤝
+Judge - ⚖️
+Lawyer - ⚖️
+Prosecutor - ⚖️
+Defender - ⚖️
+Jury - 👥
+Witness - 👁️
+Criminal - 🔒
+Thief - 💰
+Burglar - 🔦
+Robber - 💰
+Bandit - 🤠
+Outlaw - 🤠
+Gangster - 🔫
+Mobster - 🔫
+Smuggler - 📦
+Dealer - 💰
+Merchant - 🏪
+Trader - 📈
+Shopkeeper - 🏪
+Vendor - 🛒
+Salesperson - 💼
+Banker - 🏦
+Accountant - 📊
+Economist - 📊
+Investor - 📈
+Stockbroker - 📈
+Entrepreneur - 💼
+Businessman - 💼
+Tycoon - 💰
+Millionaire - 💰
+Billionaire - 💰
+Philanthropist - ❤️
+Donor - 💝
+Volunteer - 🤝
+Activist - ✊
+Protester - ✊
+Rebel - ✊
+Revolutionary - ✊
+Freedom Fighter - ✊
+Partisan - ✊
+Guerrilla - 🔫
+Commando - 🔫
+Mercenary - 💰
+Contractor - 🔧
+Builder - 🏗️
+Carpenter - 🔨
+Mason - 🧱
+Plumber - 🔧
+Electrician - 💡
+Welder - 🔥
+Blacksmith - 🔨
+Goldsmith - 💍
+Jeweler - 💎
+Locksmith - 🔐
+Watchmaker - ⌚
+Tailor - 🪡
+Seamstress - 🪡
+Cobbler - 👞
+Tanner - 🦌
+Furrier - 🦊
+Weaver - 🧵
+Spinner - 🧵
+Dyer - 🎨
+Potter - 🏺
+Glassblower - 🔥
+Candlemaker - 🕯️
+Soapmaker - 🧼
+Brewer - 🍺
+Distiller - 🥃
+Vintner - 🍷
+Winemaker - 🍷
+Beekeeper - 🐝
+Apiarist - 🐝
+Farmer - 🚜
+Rancher - 🐄
+Shepherd - 🐑
+Herder - 🐐
+Cowboy - 🤠
+Equestrian - 🐴
+Jockey - 🏇
+Trainer - 🐕
+Veterinarian - 🐕
+Zoologist - 🦁
+Conservationist - 🌳
+Park Ranger - 🌲
+Forester - 🌲
+Lumberjack - 🪓
+Miner - ⛏️
+Prospector - ⛏️
+Oil Worker - 🛢️
+Fisherman - 🎣
+Whaler - 🐋
+Diver - 🤿
+Pearl Diver - 🦪
+Salvager - ⚓
+Lifeguard - 🏊
+Swimmer - 🏊
+Surfer - 🏄
+Sailor - ⛵
+Boatman - 🚣
+Ferryman - ⛴️
+Gondolier - 🚤
+Fishmonger - 🐟
+Butcher - 🥩
+Baker - 🍞
+Chef - 👨‍🍳
+Cook - 🍳
+Pastry Chef - 🧁
+Confectioner - 🍬
+Chocolatier - 🍫
+Ice Cream Maker - 🍦
+Barista - ☕
+Bartender - 🍸
+Sommelier - 🍷
+Waiter - 🍽️
+Server - 🍽️
+Host - 🎉
+Receptionist - 📞
+Concierge - 🏨
+Bellhop - 🛎️
+Housekeeper - 🧹
+Janitor - 🧹
+Custodian - 🧹
+Cleaner - 🧽
+Maid - 🧹
+Butler - 🎩
+Valet - 🚗
+Chauffeur - 🚗
+Driver - 🚗
+Taxi Driver - 🚕
+Bus Driver - 🚌
+Truck Driver - 🚚
+Delivery Person - 📦
+Courier - 📦
+Mailman - 📬
+Postman - 📮
+Telegram - 📧
+Telegraph - 📡
+Radio - 📻
+Television - 📺
+Telephone - 📞
+Smartphone - 📱
+Computer - 💻
+Laptop - 💻
+Tablet - 📱
+Smartwatch - ⌚
+Camera - 📷
+Microphone - 🎤
+Speaker - 🔊
+Headphones - 🎧
+Earbuds - 🎧
+Drone - 🚁
+Robot - 🤖
+Cyborg - 🤖
+Android - 🤖
+AI - 🤖
+Machine Learning - 🤖
+Neural Network - 🧠
+Algorithm - 💻
+Code - 💻
+Software - 💻
+Hardware - 🔧
+Processor - 💻
+Memory - 💾
+Storage - 💾
+Hard Drive - 💾
+SSD - 💾
+USB - 💾
+Cloud - ☁️
+Server - 💻
+Mainframe - 💻
+Supercomputer - 💻
+Quantum Computer - ⚛️
+Atom - ⚛️
+Molecule - ⚛️
+Electron - ⚛️
+Proton - ⚛️
+Neutron - ⚛️
+Nucleus - ⚛️
+Particle - ⚛️
+Wave - 🌊
+Radiation - ☢️
+Radioactivity - ☢️
+X-Ray - ☢️
+Laser - 🔴
+Magnet - 🧲
+Electricity - ⚡
+Battery - 🔋
+Solar Panel - ☀️
+Wind Turbine - 💨
+Hydroelectric Dam - 🏔️
+Nuclear Reactor - ☢️
+Power Plant - 🏭
+Factory - 🏭
+Assembly Line - 🏭
+Conveyor Belt - 📦
+Crane - 🏗️
+Bulldozer - 🚜
+Excavator - 🚜
+Forklift - 🏗️
+Tractor - 🚜
+Harvester - 🌾
+Plow - 🚜
+Sickle - 🌾
+Scythe - 🌾
+Rake - 🌾
+Hoe - 🌱
+Shovel - ⛏️
+Spade - ♠️
+Pitchfork - 🌾
+Wheelbarrow - 🛒
+Ladder - 🪜
+Rope - 🪢
+Chain - ⛓️
+Lock - 🔒
+Key - 🔑
+Safe - 🔐
+Vault - 🏦
+Treasure Chest - 💰
+Coin - 🪙
+Gold Bar - 💰
+Diamond - 💎
+Ruby - 💎
+Emerald - 💎
+Sapphire - 💎
+Pearl - 🦪
+Amber - 🟡
+Jade - 💚
+Opal - 🌈
+Topaz - 🟡
+Amethyst - 💜
+Quartz - 🔮
+Crystal - 🔮
+Gemstone - 💎
+Ore - ⛏️
+Iron - ⚙️
+Steel - ⚙️
+Copper - 🟠
+Bronze - 🥉
+Silver - 🥈
+Platinum - ⚪
+Titanium - ⚙️
+Aluminum - ⚪
+Lead - ⚫
+Mercury - 💧
+Tin - ⚪
+Zinc - ⚪
+Brass - 🎺
+Nickel - 🪙
+Cobalt - 🔵
+Chromium - ⚪
+Tungsten - ⚫
+Uranium - ☢️
+Plutonium - ☢️
+Radium - ☢️
+Thorium - ☢️
+Cesium - ⚪
+Strontium - ⚪
+Helium - 🎈
+Hydrogen - 💧
+Oxygen - 💨
+Nitrogen - 💨
+Carbon - ⚫
+Sulfur - 🟡
+Phosphorus - 🟡
+Chlorine - 🟢
+Fluorine - 🟡
+Neon - 💡
+Argon - 💨
+Krypton - 💨
+Xenon - 💡
+Radon - ☢️
+Methane - 💨
+Propane - 🔥
+Butane - 🔥
+Gasoline - ⛽
+Diesel - 🚛
+Kerosene - 🔥
+Petroleum - 🛢️
+Crude Oil - 🛢️
+Coal - ⚫
+Charcoal - ⚫
+Wood - 🪵
+Timber - 🪵
+Lumber - 🪵
+Plank - 🪵
+Beam - 🏗️
+Log - 🪵
+Bark - 🌳
+Leaf - 🍃
+Branch - 🌿
+Twig - 🌿
+Root - 🌱
+Seed - 🌱
+Sprout - 🌱
+Sapling - 🌳
+Tree - 🌳
+Oak - 🌳
+Pine - 🌲
+Maple - 🍁
+Birch - 🌳
+Willow - 🌳
+Palm - 🌴
+Coconut - 🥥
+Banana - 🍌
+Apple - 🍎
+Orange - 🍊
+Lemon - 🍋
+Lime - 🍋
+Grapefruit - 🍊
+Peach - 🍑
+Pear - 🍐
+Plum - 🍑
+Cherry - 🍒
+Strawberry - 🍓
+Raspberry - 🫐
+Blueberry - 🫐
+Blackberry - 🫐
+Grape - 🍇
+Watermelon - 🍉
+Cantaloupe - 🍈
+Honeydew - 🍈
+Pineapple - 🍍
+Mango - 🥭
+Papaya - 🥭
+Kiwi - 🥝
+Pomegranate - 🍎
+Fig - 🍇
+Date - 🌴
+Avocado - 🥑
+Tomato - 🍅
+Cucumber - 🥒
+Carrot - 🥕
+Potato - 🥔
+Sweet Potato - 🍠
+Onion - 🧅
+Garlic - 🧄
+Ginger - 🫚
+Radish - 🥕
+Turnip - 🥕
+Beet - 🥕
+Cabbage - 🥬
+Lettuce - 🥬
+Spinach - 🥬
+Kale - 🥬
+Broccoli - 🥦
+Cauliflower - 🥦
+Brussels Sprouts - 🥬
+Asparagus - 🥒
+Celery - 🥬
+Corn - 🌽
+Peas - 🫛
+Beans - 🫘
+Lentils - 🫘
+Chickpeas - 🫘
+Soybeans - 🫘
+Peanuts - 🥜
+Almonds - 🥜
+Walnuts - 🥜
+Cashews - 🥜
+Pistachios - 🥜
+Hazelnuts - 🌰
+Chestnuts - 🌰
+Pecans - 🥜
+Macadamia - 🥜
+Rice - 🍚
+Wheat - 🌾
+Barley - 🌾
+Oats - 🌾
+Rye - 🌾
+Millet - 🌾
+Quinoa - 🌾
+Buckwheat - 🌾
+Bread - 🍞
+Toast - 🍞
+Bagel - 🥯
+Croissant - 🥐
+Muffin - 🧁
+Donut - 🍩
+Cake - 🎂
+Pie - 🥧
+Cookie - 🍪
+Brownie - 🍫
+Cupcake - 🧁
+Pancake - 🥞
+Waffle - 🧇
+Crepe - 🥞
+Pizza - 🍕
+Pasta - 🍝
+Spaghetti - 🍝
+Lasagna - 🍝
+Ravioli - 🥟
+Tortellini - 🥟
+Macaroni - 🍝
+Noodles - 🍜
+Ramen - 🍜
+Udon - 🍜
+Soba - 🍜
+Pho - 🍜
+Soup - 🍲
+Stew - 🍲
+Chili - 🌶️
+Curry - 🍛
+Burrito - 🌯
+Taco - 🌮
+Quesadilla - 🧀
+Enchilada - 🌯
+Nachos - 🧀
+Hamburger - 🍔
+Cheeseburger - 🍔
+Hot Dog - 🌭
+Sandwich - 🥪
+Wrap - 🌯
+Sub - 🥪
+Panini - 🥪
+Sushi - 🍣
+Sashimi - 🍣
+Tempura - 🍤
+Teriyaki - 🍗
+Yakitori - 🍢
+Sashimi - 🐟
+Steak - 🥩
+Ribs - 🍖
+Brisket - 🥩
+Bacon - 🥓
+Ham - 🍖
+Sausage - 🌭
+Salami - 🥩
+Pepperoni - 🍕
+Chicken - 🍗
+Turkey - 🦃
+Duck - 🦆
+Goose - 🦆
+Quail - 🐦
+Pheasant - 🐦
+Egg - 🥚
+Omelet - 🍳
+Scrambled Eggs - 🍳
+Fried Egg - 🍳
+Boiled Egg - 🥚
+Poached Egg - 🥚
+Cheese - 🧀
+Cheddar - 🧀
+Mozzarella - 🧀
+Parmesan - 🧀
+Swiss - 🧀
+Brie - 🧀
+Gouda - 🧀
+Feta - 🧀
+Ricotta - 🧀
+Cream Cheese - 🧀
+Butter - 🧈
+Milk - 🥛
+Cream - 🥛
+Yogurt - 🥛
+Ice Cream - 🍦
+Sorbet - 🍧
+Gelato - 🍨
+Popsicle - 🍡
+Candy - 🍬
+Chocolate - 🍫
+Lollipop - 🍭
+Gummy Bear - 🐻
+Jellybean - 🫘
+Marshmallow - ☁️
+Caramel - 🍮
+Toffee - 🍬
+Fudge - 🍫
+Nougat - 🍬
+Licorice - ⚫
+Mint - 🌿
+Cinnamon - 🟤
+Vanilla - ⚪
+Coffee - ☕
+Tea - 🍵
+Espresso - ☕
+Cappuccino - ☕
+Latte - ☕
+Mocha - ☕
+Hot Chocolate - ☕
+Cocoa - 🍫
+Juice - 🧃
+Smoothie - 🥤
+Milkshake - 🥤
+Soda - 🥤
+Water - 💧
+Sparkling Water - 💧
+Lemonade - 🍋
+Iced Tea - 🧊
+Beer - 🍺
+Wine - 🍷
+Champagne - 🍾
+Whiskey - 🥃
+Vodka - 🍸
+Rum - 🥃
+Gin - 🍸
+Tequila - 🍹
+Brandy - 🥃
+Cocktail - 🍹
+Margarita - 🍹
+Mojito - 🍹
+Martini - 🍸
+Daiquiri - 🍹
+Piña Colada - 🍹
+Bloody Mary - 🍅
+Screwdriver - 🍊
+Manhattan - 🍸
+Old Fashioned - 🥃
